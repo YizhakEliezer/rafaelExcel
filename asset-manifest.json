@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rafaelExcel/static/css/main.48e9e24f.css",
-    "main.js": "/rafaelExcel/static/js/main.9700d8ee.js",
-    "index.html": "/rafaelExcel/index.html",
-    "main.48e9e24f.css.map": "/rafaelExcel/static/css/main.48e9e24f.css.map",
-    "main.9700d8ee.js.map": "/rafaelExcel/static/js/main.9700d8ee.js.map"
+    "main.css": "/YizhakEliezer/rafaelExcelNew.git/static/css/main.a82e4226.css",
+    "main.js": "/YizhakEliezer/rafaelExcelNew.git/static/js/main.6deb4c28.js",
+    "index.html": "/YizhakEliezer/rafaelExcelNew.git/index.html",
+    "main.a82e4226.css.map": "/YizhakEliezer/rafaelExcelNew.git/static/css/main.a82e4226.css.map",
+    "main.6deb4c28.js.map": "/YizhakEliezer/rafaelExcelNew.git/static/js/main.6deb4c28.js.map"
   },
   "entrypoints": [
-    "static/css/main.48e9e24f.css",
-    "static/js/main.9700d8ee.js"
+    "static/css/main.a82e4226.css",
+    "static/js/main.6deb4c28.js"
   ]
 }
