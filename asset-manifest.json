@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/rafaelExcel/static/css/main.a82e4226.css",
-    "main.js": "/rafaelExcel/static/js/main.9700d8ee.js",
+    "main.css": "/rafaelExcel/static/css/main.3e282623.css",
+    "main.js": "/rafaelExcel/static/js/main.98d7d7ae.js",
+    "static/media/logoArrow.png": "/rafaelExcel/static/media/logoArrow.c814de993054b98070bf.png",
     "index.html": "/rafaelExcel/index.html",
-    "main.a82e4226.css.map": "/rafaelExcel/static/css/main.a82e4226.css.map",
-    "main.9700d8ee.js.map": "/rafaelExcel/static/js/main.9700d8ee.js.map"
+    "static/media/arrow.svg": "/rafaelExcel/static/media/arrow.1e849faa8b4424a4aee765d3db4a436a.svg",
+    "main.3e282623.css.map": "/rafaelExcel/static/css/main.3e282623.css.map",
+    "main.98d7d7ae.js.map": "/rafaelExcel/static/js/main.98d7d7ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.a82e4226.css",
-    "static/js/main.9700d8ee.js"
+    "static/css/main.3e282623.css",
+    "static/js/main.98d7d7ae.js"
   ]
 }
